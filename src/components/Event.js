@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import { DELETE_EVENT } from '../actions'
 
 const Event = ({ event, dispatch }) => {
